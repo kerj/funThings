@@ -1,0 +1,10 @@
+img {
+  width: 300px;
+  height: auto;
+  display: none;
+}
+
+.clickable:hover {
+  text-transform: uppercase;
+  cursor: crosshair;
+}
